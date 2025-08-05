@@ -10,6 +10,6 @@ Set up a basic Jenkins pipeline to automate the process of building and deployin
 7. Configured Jenkins to trigger the pipeline on each code commit.
 8. Pipeline is giving success message in Jenkins dashboard on every code commit.
 
-<img width="328" height="200" alt="image" src="https://github.com/user-attachments/assets/86edb858-57ce-467d-8940-f9841f5b4bc8" />
+
 
 
