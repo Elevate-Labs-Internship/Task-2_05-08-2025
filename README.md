@@ -8,7 +8,9 @@ Set up a basic Jenkins pipeline to automate the process of building and deployin
 5. Selected main branch in "Branches to build section".
 6. Added Jenkinsfile in script path section.
 7. Configured Jenkins to trigger the pipeline on each code commit.
-8. Pipeline is giving success message in Jenkins dashboard on every code commit.
+8. To do the trigger, checked the "Github hook trigger for GITScm polling" option in "Build Trigger section".
+9. Now in the repo setting, I created a webhook and saved.
+10. Pipeline is giving success message in Jenkins dashboard on every code commit.
 
 
 
